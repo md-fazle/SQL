@@ -1,1 +1,3 @@
-# SQL
+Hello...
+This is my SQL Queries and practice files. Queries and database relations work are given here. 
+SQL|| MSSQL || Database Design || Data Analysis || Database Relations || SQL Query 
